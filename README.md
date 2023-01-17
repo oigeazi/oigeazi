@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238E94&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0E2F2&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+Meu+nome+é+Geazi+Alves;Eu+tenho+20+anos;E+estudo+Engenharia+de+Software;Bem-+vindo!+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0E2F2&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+Meu+nome+é+Geazi+Alves;Eu+tenho+20+anos;E+estudo+Engenharia+de+Software;Bem-vindo!+😉)](https://git.io/typing-svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oigeazi&show_icons=true&theme=nightowl)
