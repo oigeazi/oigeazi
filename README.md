@@ -43,6 +43,7 @@
 ###
 
 
+[![Cubos Flix](https://github-readme-stats.vercel.app/api/pin/?username=oigeazi&repo=Cubos-Flix&bg_color=161B22&title_color=238E94&text_color=D0E2F2&icon_color=238E94&border_color=238E94)](https://github.com/oigeazi/Cubos-Flix)
 [![Airtravel](https://github-readme-stats.vercel.app/api/pin/?username=oigeazi&repo=airtravel&bg_color=161B22&title_color=238E94&text_color=D0E2F2&icon_color=238E94&border_color=238E94)](https://github.com/oigeazi/airtravel)
 [![Friendly-Book](https://github-readme-stats.vercel.app/api/pin/?username=oigeazi&repo=Friendly-Book&bg_color=161B22&title_color=238E94&text_color=D0E2F2&icon_color=238E94&border_color=238E94)]([https://github.com/oigeazi/airtravel](https://github.com/oigeazi/Friendly-Book))
 [![biscuit](https://github-readme-stats.vercel.app/api/pin/?username=oigeazi&repo=biscuit&bg_color=161B22&title_color=238E94&text_color=D0E2F2&icon_color=238E94&border_color=238E94)](https://github.com/oigeazi/biscuit)
