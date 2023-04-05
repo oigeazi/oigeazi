@@ -2,21 +2,18 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0E2F2&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!😉)
 
-```Javascript
-console.log(`
-    Prazer, Geazi Alves
+>    Prazer, Geazi Alves
+
+>    Sou um jovem curioso e explorador no Mundo tecnológico. Gosto de passar horas navegando na
+>    internet, dando uma espiada nos códigos das plataformas, descobrindo como se usa uma nova
+>    ferramenta ou software e aprendendo coisas legais.
     
-    Sou um jovem curioso e explorador no Mundo tecnológico. Gosto de passar horas navegando na
-    internet, dando uma espiada nos códigos das plataformas, descobrindo como se usa uma nova
-    ferramenta ou software e aprendendo coisas legais.
-    
-    Atualmente curso Desenvolvimento Web FullStack na Cubos Academy e estou me graduando em
-    Engenharia de Software. Com essa e outras bagagens de conhecimento, espero contribuir muito
-    para a criação de sistemas eficazes, com design moderno, agradável, intuitivo e, acima de
-    tudo, seguros; que facilite o dia a dia de milhares de brasileiros.
-`);
-```
-</br>
+>    Atualmente curso Desenvolvimento Web FullStack na Cubos Academy e estou me graduando em
+>    Engenharia de Software. Com essa e outras bagagens de conhecimento, espero contribuir muito
+>    para a criação de sistemas eficazes, com design moderno, agradável, intuitivo e, acima de
+>    tudo, seguros; que facilite o dia a dia de milhares de brasileiros.
+
+##
 
 <p align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oigeazi&show_icons=true&bg_color=161B22&title_color=238E94&text_color=D0E2F2&icon_color=238E94&border_color=238E94">
